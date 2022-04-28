@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+parts:
+  - caption: Guides
+    chapters:
+    - glob: guides/*
+  - caption: API Reference
+    chapters:
+    - glob: api/*

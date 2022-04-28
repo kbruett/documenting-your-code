@@ -12,7 +12,7 @@ def generate_password(chars: int, punctuation: bool, invalid_chars: Optional[Ite
             invalid_chars (Optional[Iterable[str]]): list of characters that are not allowed
 
         Returns:
-            str: password
+            password (str)
     """
     # Add all numbers and letters to the valid characters
     valid_chars = string.ascii_letters + string.digits
