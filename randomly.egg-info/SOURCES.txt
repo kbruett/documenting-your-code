@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+randomly/__init__.py
+randomly/facts.py
+randomly/palette.py
+randomly/password.py
+randomly/points.py
+randomly.egg-info/PKG-INFO
+randomly.egg-info/SOURCES.txt
+randomly.egg-info/dependency_links.txt
+randomly.egg-info/top_level.txt
